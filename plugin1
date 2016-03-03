@@ -4,7 +4,6 @@ rubygem-apipie-params
 rubygem-archive-tar-minitar
 rubygem-colorize
 rubygem-commonjs
-rubygem-concurrent-ruby
 rubygem-concurrent-ruby-edge
 rubygem-dalli
 rubygem-deface
@@ -41,8 +40,6 @@ rubygem-hammer_cli_foreman_salt
 rubygem-hammer_cli_foreman_ssh
 rubygem-hammer_cli_foreman_tasks
 rubygem-jgrep
-rubygem-less
-rubygem-less-rails
 rubygem-net-ssh-gateway
 rubygem-net-ssh-multi
 rubygem-opennebula

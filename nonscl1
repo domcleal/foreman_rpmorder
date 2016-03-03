@@ -10,6 +10,7 @@ rubygem-hashie
 rubygem-highline
 rubygem-kafo
 rubygem-kafo_parsers
+rubygem-kafo_wizards
 rubygem-little-plugger
 rubygem-locale
 rubygem-logging

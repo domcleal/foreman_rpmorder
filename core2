@@ -7,12 +7,15 @@ rubygem-apipie-bindings
 rubygem-apipie-rails
 rubygem-audited
 rubygem-autoparse
+rubygem-autoprefixer-rails
 rubygem-awesome_print
 rubygem-bootstrap-sass
 rubygem-bundler_ext
 rubygem-clamp
+rubygem-concurrent-ruby
 rubygem-daemons
 rubygem-deep_cloneable
+rubygem-ejs
 rubygem-eventmachine
 rubygem-excon
 rubygem-extlib
@@ -25,8 +28,10 @@ rubygem-fog-core
 rubygem-fog-google
 rubygem-fog-json
 rubygem-fog-libvirt
+rubygem-fog-vsphere
 rubygem-fog-xenserver
 rubygem-fog-xml
+rubygem-font-awesome-sass
 rubygem-foreigner
 rubygem-foreman_api
 rubygem-foremancli
@@ -64,6 +69,7 @@ rubygem-net-ssh
 rubygem-nokogiri
 rubygem-oauth
 rubygem-paint
+rubygem-patternfly-sass
 rubygem-pg
 rubygem-po_to_json
 rubygem-powerbar
@@ -79,6 +85,7 @@ rubygem-retriable
 rubygem-rubyforge
 rubygem-ruby-libvirt
 rubygem-safemode
+rubygem-sass
 rubygem-scoped_search
 rubygem-secure_headers
 rubygem-select2-rails

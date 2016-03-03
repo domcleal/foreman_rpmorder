@@ -3,7 +3,6 @@ rubygem-angular-rails-templates
 rubygem-apipie-params
 rubygem-colorize
 rubygem-commonjs
-rubygem-concurrent-ruby
 rubygem-concurrent-ruby-edge
 rubygem-deface
 rubygem-diffy
@@ -36,8 +35,6 @@ rubygem-hammer_cli_foreman_remote_execution
 rubygem-hammer_cli_foreman_salt
 rubygem-hammer_cli_foreman_ssh
 rubygem-hammer_cli_foreman_tasks
-rubygem-less
-rubygem-less-rails
 rubygem-ovirt_provision_plugin
 rubygem-parse-cron
 rubygem-puppetdb_foreman
