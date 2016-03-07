@@ -12,7 +12,6 @@ rubygem-docker-api
 rubygem-dynflow
 rubygem-ffi
 rubygem-foreman_abrt
-rubygem-foreman_chef
 rubygem-foreman_column_view
 rubygem-foreman_custom_parameters
 rubygem-foreman_default_hostgroup
