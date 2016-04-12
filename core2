@@ -12,10 +12,8 @@ rubygem-awesome_print
 rubygem-bootstrap-sass
 rubygem-bundler_ext
 rubygem-clamp
-rubygem-concurrent-ruby
 rubygem-daemons
 rubygem-deep_cloneable
-rubygem-ejs
 rubygem-eventmachine
 rubygem-excon
 rubygem-extlib
@@ -50,7 +48,6 @@ rubygem-hashie
 rubygem-highline
 rubygem-hirb
 rubygem-hirb-unicode
-rubygem-i18n
 rubygem-ipaddress
 rubygem-jquery_pwstrength_bootstrap_4
 rubygem-jquery-turbolinks
@@ -61,14 +58,12 @@ rubygem-ldap_fluff
 rubygem-little-plugger
 rubygem-locale
 rubygem-logging
-rubygem-multi_json
 rubygem-multipart-post
 rubygem-multi-select-rails
 rubygem-mysql2
 rubygem-net-ldap
 rubygem-netrc
 rubygem-net-ssh
-rubygem-nokogiri
 rubygem-oauth
 rubygem-paint
 rubygem-patternfly-sass
@@ -87,7 +82,6 @@ rubygem-retriable
 rubygem-rubyforge
 rubygem-ruby-libvirt
 rubygem-safemode
-rubygem-sass
 rubygem-scoped_search
 rubygem-secure_headers
 rubygem-select2-rails
@@ -99,7 +93,6 @@ rubygem-sshkey
 rubygem-syntax
 rubygem-table_print
 rubygem-text
-rubygem-turbolinks
 rubygem-underscore-rails
 rubygem-unicode-display_width
 rubygem-validates_lengths_from_database
