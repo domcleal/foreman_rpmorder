@@ -50,6 +50,7 @@ rubygem-hirb
 rubygem-hirb-unicode
 rubygem-ipaddress
 rubygem-jquery_pwstrength_bootstrap_4
+rubygem-jquery-rails
 rubygem-jquery-turbolinks
 rubygem-jquery-ui-rails
 rubygem-jwt
@@ -77,6 +78,7 @@ rubygem-rack-jsonp
 rubygem-rails-i18n
 rubygem-rails-observers
 rubygem-rbovirt
+rubygem-responders
 rubygem-rest-client
 rubygem-retriable
 rubygem-rubyforge
