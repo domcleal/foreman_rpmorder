@@ -28,6 +28,8 @@ rubygem-fog-core
 rubygem-fog-google
 rubygem-fog-json
 rubygem-fog-libvirt
+rubygem-fog-openstack
+rubygem-fog-rackspace
 rubygem-fog-vsphere
 rubygem-fog-xenserver
 rubygem-fog-xml
@@ -100,6 +102,5 @@ rubygem-text
 rubygem-turbolinks
 rubygem-underscore-rails
 rubygem-unicode-display_width
-rubygem-uuidtools
 rubygem-validates_lengths_from_database
 rubygem-wirb
