@@ -27,7 +27,9 @@ rubygem-hammer_cli_foreman
 rubygem-hirb
 rubygem-hirb-unicode
 rubygem-jquery_pwstrength_bootstrap_4
+rubygem-jquery-rails
 rubygem-jquery-turbolinks
+rubygem-jquery-ui-rails
 rubygem-jwt
 rubygem-launchy
 rubygem-multi-select-rails
