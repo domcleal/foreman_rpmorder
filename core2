@@ -2,7 +2,6 @@ rubygem-ace-rails-ap
 rubygem-activerecord-session_store
 rubygem-addressable
 rubygem-ancestry
-rubygem-ansi
 rubygem-apipie-bindings
 rubygem-apipie-rails
 rubygem-audited
@@ -46,7 +45,7 @@ rubygem-hammer_cli_foreman
 rubygem-hashie
 rubygem-highline
 rubygem-hirb
-rubygem-hirb-unicode
+rubygem-hirb-unicode-steakknife
 rubygem-ipaddress
 rubygem-jquery_pwstrength_bootstrap_4
 rubygem-jquery-rails
