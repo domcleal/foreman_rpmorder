@@ -40,7 +40,6 @@ rubygem-jgrep
 rubygem-net-ssh-gateway
 rubygem-net-ssh-multi
 rubygem-opennebula
-rubygem-ovirt_provision_plugin
 rubygem-parse-cron
 rubygem-puppetdb_foreman
 rubygem-safe_yaml

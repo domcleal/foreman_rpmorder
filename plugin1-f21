@@ -35,7 +35,6 @@ rubygem-hammer_cli_foreman_remote_execution
 rubygem-hammer_cli_foreman_salt
 rubygem-hammer_cli_foreman_ssh
 rubygem-hammer_cli_foreman_tasks
-rubygem-ovirt_provision_plugin
 rubygem-parse-cron
 rubygem-puppetdb_foreman
 rubygem-wicked
