@@ -13,6 +13,7 @@ rubygem-bundler_ext
 rubygem-clamp
 rubygem-daemons
 rubygem-deep_cloneable
+rubygem-domain_name
 rubygem-eventmachine
 rubygem-excon
 rubygem-extlib
@@ -45,6 +46,7 @@ rubygem-hashie
 rubygem-highline
 rubygem-hirb
 rubygem-hirb-unicode-steakknife
+rubygem-http-cookie
 rubygem-ipaddress
 rubygem-jquery_pwstrength_bootstrap_4
 rubygem-jquery-rails
@@ -76,7 +78,6 @@ rubygem-rails-i18n
 rubygem-rails-observers
 rubygem-rbovirt
 rubygem-responders
-rubygem-rest-client
 rubygem-retriable
 rubygem-rubyforge
 rubygem-ruby-libvirt
@@ -93,6 +94,9 @@ rubygem-syntax
 rubygem-table_print
 rubygem-text
 rubygem-underscore-rails
+rubygem-unf
+rubygem-unf_ext
 rubygem-unicode-display_width
 rubygem-validates_lengths_from_database
 rubygem-wirb
+tfm-rubygem-rest-client
