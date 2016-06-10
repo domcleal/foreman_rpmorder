@@ -13,6 +13,7 @@ rubygem-foreman_custom_parameters
 rubygem-foreman_default_hostgroup
 rubygem-foreman_dhcp_browser
 rubygem-foreman_digitalocean
+rubygem-foreman_expire_hosts
 rubygem-foreman_graphite
 rubygem-foreman_hooks
 rubygem-foreman_host_rundeck
@@ -26,6 +27,7 @@ rubygem-foreman_snapshot
 rubygem-foreman_templates
 rubygem-foreman_xen
 rubygem-graphite-api
+rubygem-hammer_cli_foreman_admin
 rubygem-hammer_cli_foreman_bootdisk
 rubygem-hammer_cli_foreman_discovery
 rubygem-hammer_cli_foreman_docker

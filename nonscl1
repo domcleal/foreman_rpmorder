@@ -1,7 +1,6 @@
 foreman-release-scl
 puppet-agent-oauth
 rubygem-apipie-bindings
-rubygem-awesome_print
 rubygem-bundler_ext
 rubygem-clamp
 rubygem-foreman_api
@@ -11,7 +10,6 @@ rubygem-kafo
 rubygem-kafo_parsers
 rubygem-kafo_wizards
 rubygem-little-plugger
-rubygem-locale
 rubygem-logging
 rubygem-multi_json
 rubygem-netrc
