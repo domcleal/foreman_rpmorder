@@ -2,7 +2,6 @@ foreman-release-scl
 puppet-agent-oauth
 rubygem-apipie-bindings
 rubygem-awesome_print
-rubygem-bundler
 rubygem-bundler_ext
 rubygem-clamp
 rubygem-foreman_api
@@ -25,5 +24,4 @@ rubygem-rest-client
 rubygem-rkerberos
 rubygem-rubyipmi
 rubygem-sinatra
-rubygem-thor
 rubygem-tilt
